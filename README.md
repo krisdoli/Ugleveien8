@@ -16,3 +16,12 @@
 |Vannsensor i dusjen | Aqara  | SJCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til smartstyring av VVB og lys. |
 |Varmekabel på badet | NAMRON | Touch termostat | Zigbee2mqtt | Orginal | Smart oppvarming  og energisparing | 
 |Vindusensor på badet | Aqara | MCCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til oppvarming  og energisparing  |
+
+<h3>Garasjen</h3>
+
+| Enhet | Produsent | Modell | Integrasjon | Fastvare | Behandling |
+| :-:   | :-        | :-     | :-          | :-       | :-         |
+| Garasjeport 1 | Wemos D1 Mini med relè stack | N/A | EspHome | Egenprodusert | Garasjeåpner |
+| Garasjeport 1 | Aqara | MCCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til Garasjeåpner |
+| Garasjeport 2 | Wemos D1 Mini med relè stack | N/A | EspHome | Egenprodusert | Garasjeåpner | 
+| Garasjeport 2 | Aqara | MCCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til Garasjeåpner |
