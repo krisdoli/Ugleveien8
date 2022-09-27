@@ -23,5 +23,24 @@
 | :-:   | :-        | :-     | :-          | :-       | :-         |
 | Garasjeport 1 | Wemos D1 Mini med relè stack | N/A | EspHome | Egenprodusert | Garasjeåpner |
 | Garasjeport 1 | Aqara | MCCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til Garasjeåpner |
-| Garasjeport 2 | Wemos D1 Mini med relè stack | N/A | EspHome | Egenprodusert | Garasjeåpner | 
-| Garasjeport 2 | Aqara | MCCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til Garasjeåpner |
+| Garasjeport 2 | Wemos D1 Mini med relè stack | N/A | EspHome | Egenprodusert | Garasjeport-åpner | 
+| Garasjeport 2 | Aqara | MCCGQ11LM | Zigbee2mqtt | Orginal | Hjelper til Garasjeport-åpner |
+| Lys i garasjen| Aqara | SSM-U02 | Zigbee2mqtt | Orginal | Belysning skrur seg automatisk på ved portåpning |
+
+<h3>Garderoben</h3>
+
+| Enhet | Produsent | Modell | Integrasjon | Fastvare | Behandling |
+| :-:   | :-        | :-     | :-          | :-       | :-         |
+| Taklys i garderoben | NAMRON | Zigbee trykk/vri dimmer | Zigbee2mqtt | Orginal | Belysning |
+| Sminkelys i garderoben | GIRIER | Mini Smart Wifi DIY Switch | Tuya | Orginal | Slave av taklyset |
+| Garderoben trapp-bryter | Shelly | Shelly 1 | MQTT | Tasmota | Trappebryter for belysning |
+
+
+<h3>Gjesterommet</h3>
+
+| Enhet | Produsent | Modell | Integrasjon | Fastvare | Behandling |
+| :-:   | :-        | :-     | :-          | :-       | :-         |
+| Lys på gjesterommet | Aqara | SSM-U02 | Zigbee2mqtt | Orginal | Belysning |
+| Temperatur på gjesterommet | SONOFF | SNZB-02 | Zigbee2mqtt | Orginal | Hjelper til termostater |
+| InWall - Gjesterommet | Unifi | UAP-AC-IW | LAN | Unifi Controller | POE Trådløst aksesspunkt med to ethernet plugger |
+
